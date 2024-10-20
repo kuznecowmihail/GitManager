@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Chat instellingen" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Setup duplicates rules" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Externe toegang" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Talen" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP integratie instellen" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="ML modellen" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="OAuth 2.0 integrated applications" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Score modellen" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Vertaling" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Web services integration setup" />
+		</Items>
+	</Group>
+</Resources>

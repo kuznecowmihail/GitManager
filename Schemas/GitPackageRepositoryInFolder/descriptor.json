@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "713cd374-7f66-40c9-8025-4c8687e69bbc",
+    "Name": "GitPackageRepositoryInFolder",
+    "ModifiedOnUtc": "\/Date(1729370809000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Репозитории пакетов в группе"
+  }
+}

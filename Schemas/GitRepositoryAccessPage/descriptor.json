@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a181795d-2187-428e-abda-b6d5b9d4b0ec",
+    "Name": "GitRepositoryAccessPage",
+    "ModifiedOnUtc": "\/Date(1729379040000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Доступы к репозиториям Git\""
+  }
+}

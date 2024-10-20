@@ -1,0 +1,98 @@
+= MetaData.Schema.UId "fc5a1094-e208-4811-b270-3e3d88259b30"
+= MetaData.Schema.A2 "GitRepositoryAccess"
+= MetaData.Schema.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.B6 "1f6c338d-966d-726d-df9e-cdc27104080f"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "4ce96af2-6676-417a-8655-b64d57fc7fef"
+= MetaData.Schema.EG1.A2 "GitRepositoryAccessEventsProcess"
+= MetaData.Schema.EG1.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "538d0947-1cfa-4b11-8f6f-359ec5a91a5c"
++ MetaData.Schema.D2 {
+  "UId": "538d0947-1cfa-4b11-8f6f-359ec5a91a5c",
+  "A2": "GitName",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "ba3345fb-b77e-4ed0-85d7-a5eae26c67a3",
+  "A2": "GitNotes",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "cd3e56eb-f2a2-4c7b-90ac-1db8a5340745",
+  "A2": "GitUsername",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "8d5eab53-bb34-4e17-9063-cf81eb20b338",
+  "A2": "GitPassword",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "03486e88-f9f1-49b2-930c-12225553cb5f",
+  "A2": "GitHostname",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "4090ac97-dc63-4062-bbd4-5dd356fe123b",
+  "A2": "GitEmail",
+  "A3": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","538d0947-1cfa-4b11-8f6f-359ec5a91a5c","ba3345fb-b77e-4ed0-85d7-a5eae26c67a3","cd3e56eb-f2a2-4c7b-90ac-1db8a5340745","8d5eab53-bb34-4e17-9063-cf81eb20b338","03486e88-f9f1-49b2-930c-12225553cb5f","4090ac97-dc63-4062-bbd4-5dd356fe123b"]
+= MetaData.Schema.D20.A2 "GitRepositoryAccessEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

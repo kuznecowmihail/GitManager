@@ -1,0 +1,49 @@
+= MetaData.Schema.UId "713cd374-7f66-40c9-8025-4c8687e69bbc"
+= MetaData.Schema.A2 "GitPackageRepositoryInFolder"
+= MetaData.Schema.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.B6 "1f6c338d-966d-726d-df9e-cdc27104080f"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "04e90585-cfe1-4e0d-81d7-968734132292"
+= MetaData.Schema.EG1.A2 "GitPackageRepositoryInFolderEventsProcess"
+= MetaData.Schema.EG1.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
++ MetaData.Schema.EG1.BK8 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "4f63bafb-e9e7-4082-b92e-66b97c14017c"
+= MetaData.Schema.D2.["9e46bb69-9788-423c-b7cd-4c624081082d"].S4 "2f278b5c-a1d4-4865-b77a-092088444327"
++ MetaData.Schema.D2 {
+  "UId": "8d0adbe4-9f2e-4e83-9fef-12836de26155",
+  "A2": "GitPackageRepository",
+  "A3": "713cd374-7f66-40c9-8025-4c8687e69bbc",
+  "A4": "713cd374-7f66-40c9-8025-4c8687e69bbc",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "E2": 1,
+  "E5": false,
+  "E9": true,
+  "E17": "GitPackageRepositoryId",
+  "E18": "GitPackageRepositoryGitName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","9e46bb69-9788-423c-b7cd-4c624081082d","3fabd836-6a53-4d8d-9069-6df88d9dae1e","8d0adbe4-9f2e-4e83-9fef-12836de26155"]
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["9e46bb69-9788-423c-b7cd-4c624081082d"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

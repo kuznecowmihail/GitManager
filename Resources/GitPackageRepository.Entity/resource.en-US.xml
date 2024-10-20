@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Git package repository" />
+			<Item Name="Columns.GitLockedBy.Caption" Value="Locked by" />
+			<Item Name="Columns.GitName.Caption" Value="Name" />
+			<Item Name="Columns.GitNotes.Caption" Value="Notes" />
+			<Item Name="Columns.GitRemoteUrl.Caption" Value="Link to remote repository" />
+			<Item Name="Columns.GitRepositoryAccess.Caption" Value="Repository access" />
+			<Item Name="Columns.GitSysPackage.Caption" Value="Package" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Chat settings" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Setup duplicates rules" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Extern tillgång" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Dataimport" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Språk" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP-integreringsinställning" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="ML-modeller" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="OAuth 2.0 integrated applications" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Bedömningsmodeller" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Översättning" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Inställning av webbtjänstintegrering" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "1f6c338d-966d-726d-df9e-cdc27104080f",
+    "Name": "GitManager",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1729368060000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/GitManager.csproj",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

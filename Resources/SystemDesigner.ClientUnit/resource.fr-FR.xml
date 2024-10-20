@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Paramètres de Chat" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Configurer les règles de duplication" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Accès externe" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Langues" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Configuration de l'intégration LDAP" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="modèles ML" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="Applications intégrées OAuth 2.0" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Modèles de scoring" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Traduction" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Configuration de l'intégration des Web services" />
+		</Items>
+	</Group>
+</Resources>

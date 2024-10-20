@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Thiết lập trò chuyện" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Thiết lập quy tắc trùng lặp" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Truy cập bên ngoài" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Ngôn ngữ" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Thiết lập tích hợp cho LDAP" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="Các mô hình ML" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="Các ứng dụng tích hợp OAuth 2.0" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Mô hình chấm điểm" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Biên dịch" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Thiết lập tích hợp của các dịch vụ web" />
+		</Items>
+	</Group>
+</Resources>

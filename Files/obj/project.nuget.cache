@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G094ajkok6HhiiwpH9JzGswNTnYzSlay078it/w2uGg8/E+E97COdjYuzostwakY+fOR2H0359wf2wboYFFhdA==",
+  "success": true,
+  "projectFilePath": "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\GitManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mi\\.nuget\\packages\\libgit2sharp\\0.30.0\\libgit2sharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\mi\\.nuget\\packages\\libgit2sharp-ssh\\1.0.22\\libgit2sharp-ssh.1.0.22.nupkg.sha512",
+    "C:\\Users\\mi\\.nuget\\packages\\libgit2sharp-ssh.nativebinaries\\1.0.14\\libgit2sharp-ssh.nativebinaries.1.0.14.nupkg.sha512",
+    "C:\\Users\\mi\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.322\\libgit2sharp.nativebinaries.2.0.322.nupkg.sha512"
+  ],
+  "logs": []
+}

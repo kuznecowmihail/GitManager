@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8ea7d0fd-ce23-46f4-8935-fa470a44ca17",
+    "Name": "GitRepositoryAccessInTag",
+    "ModifiedOnUtc": "\/Date(1729375449000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Доступы к репозиториям Git"
+  }
+}

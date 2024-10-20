@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Налаштування чатів" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Правила пошуку дублів" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Доступ зовнішніх програм" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Мови" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Налаштування інтеграції з LDAP" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="Моделі машинного навчання" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="Інтеграції з OAuth 2.0 авторизацією" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Скорингові моделі" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Переклади" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Налаштування інтеграції з веб-сервісами" />
+		</Items>
+	</Group>
+</Resources>

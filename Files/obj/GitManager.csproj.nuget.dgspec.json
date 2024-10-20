@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\GitManager.csproj": {}
+  },
+  "projects": {
+    "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\GitManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\GitManager.csproj",
+        "projectName": "GitManager",
+        "projectPath": "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\GitManager.csproj",
+        "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
+        "outputPath": "D:\\apps\\creatiodevelopment_framework\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GitManager\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "LibGit2Sharp": {
+              "target": "Package",
+              "version": "[0.30.0, )"
+            },
+            "LibGit2Sharp-SSH": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            },
+            "LibGit2Sharp-SSH.NativeBinaries": {
+              "target": "Package",
+              "version": "[1.0.14, )"
+            },
+            "LibGit2Sharp.NativeBinaries": {
+              "target": "Package",
+              "version": "[2.0.322, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

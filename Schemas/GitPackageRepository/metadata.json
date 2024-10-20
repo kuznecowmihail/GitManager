@@ -1,0 +1,146 @@
+= MetaData.Schema.UId "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb"
+= MetaData.Schema.A2 "GitPackageRepository"
+= MetaData.Schema.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.B6 "1f6c338d-966d-726d-df9e-cdc27104080f"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "19b546bd-cb2d-41ca-9104-c05b07105bb4"
+= MetaData.Schema.EG1.A2 "GitPackageRepositoryEventsProcess"
+= MetaData.Schema.EG1.A5 "7a522f4a-96a2-441b-a877-0f803082d56c"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "dfa08b21-3e1f-4d6e-9e98-f50aba61332e"
++ MetaData.Schema.D2 {
+  "UId": "dfa08b21-3e1f-4d6e-9e98-f50aba61332e",
+  "A2": "GitName",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "64052446-5295-4f89-b2b8-320c75000ba6",
+  "A2": "GitNotes",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "53904f42-d1dd-788b-3297-8cd305dcd403",
+  "A2": "GitRemoteUrl",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "159d58de-e590-2f44-aaec-c9ba879a8aa2",
+  "A2": "GitSysPackage",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ca400a85-ec48-4b42-8e50-271929d27871",
+  "E6": true,
+  "E17": "GitSysPackageId",
+  "E18": "GitSysPackageName"
+}
++ MetaData.Schema.D2 {
+  "UId": "85034e1d-5b14-45f7-7b28-1c398601da96",
+  "A2": "GitLockedBy",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E5": false,
+  "E6": true,
+  "E17": "GitLockedById",
+  "E18": "GitLockedByName"
+}
++ MetaData.Schema.D2 {
+  "UId": "3af29689-95c5-5e56-3c4d-1475e587df1f",
+  "A2": "GitRepositoryAccess",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "fc5a1094-e208-4811-b270-3e3d88259b30",
+  "E2": 1,
+  "E5": false,
+  "E6": true,
+  "E17": "GitRepositoryAccessId",
+  "E18": "GitRepositoryAccessGitName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","dfa08b21-3e1f-4d6e-9e98-f50aba61332e","64052446-5295-4f89-b2b8-320c75000ba6","53904f42-d1dd-788b-3297-8cd305dcd403","159d58de-e590-2f44-aaec-c9ba879a8aa2","85034e1d-5b14-45f7-7b28-1c398601da96","3af29689-95c5-5e56-3c4d-1475e587df1f"]
++ MetaData.Schema.D6 {
+  "UId": "99b93ce4-5b30-4169-b4aa-ee2a41a217f5",
+  "A2": "IX_GitUniqueColumns",
+  "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+  "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+  "F1": false,
+  "F2": true,
+  "F4": [
+    {
+      "UId": "1f81bd2e-92f2-8f40-b59f-16df0e9293b5",
+      "A2": "IndexColumn_GitRemoteUrl",
+      "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+      "G1": "53904f42-d1dd-788b-3297-8cd305dcd403"
+    },
+    {
+      "UId": "ec0df2c6-f9f2-c2eb-0b31-686c64ec00fd",
+      "A2": "IndexColumn_GitSysPackage",
+      "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+      "G1": "159d58de-e590-2f44-aaec-c9ba879a8aa2"
+    },
+    {
+      "UId": "49e6bb00-248b-45cc-0106-67f2c71db53f",
+      "A2": "IndexColumn_GitName",
+      "A3": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A4": "d4bc6612-35ff-40b3-a2a2-2312fe86fbfb",
+      "A5": "7a522f4a-96a2-441b-a877-0f803082d56c",
+      "G1": "dfa08b21-3e1f-4d6e-9e98-f50aba61332e"
+    }
+  ]
+}
+~ MetaData.Schema.D6 ["99b93ce4-5b30-4169-b4aa-ee2a41a217f5"]
+= MetaData.Schema.D20.A2 "GitPackageRepositoryEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

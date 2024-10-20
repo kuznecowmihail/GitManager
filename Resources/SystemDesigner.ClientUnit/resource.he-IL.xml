@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Chat settings" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="הגדר כללי כפילויות" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="גישה חיצונית" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="שפות" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP integration setup" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="מודלי בינה מלאכותית" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="OAuth 2.0 integrated applications" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Scoring models" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="תרגום" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="הגדרת אינטגרציית Web Service" />
+		</Items>
+	</Group>
+</Resources>

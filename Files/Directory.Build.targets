@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/GitManager/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/GitManager/Data/**" />
+		<Compile Remove="$(PkgPath)/GitManager/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/GitManager/Schemas\**" />
+		<Compile Remove="$(PkgPath)/GitManager/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GitManager/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GitManager/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GitManager/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GitManager/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GitManager/Resources/**" />
+		<None Remove="$(PkgPath)/GitManager/Assemblies/**" />
+		<None Remove="$(PkgPath)/GitManager/Data/**" />
+		<None Remove="$(PkgPath)/GitManager/SqlScripts/**" />
+		<None Remove="$(PkgPath)/GitManager/Schemas/**" />
+		<None Remove="$(PkgPath)/GitManager/Resources/**" />
+  </ItemGroup>
+</Project>

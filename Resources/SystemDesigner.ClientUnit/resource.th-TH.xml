@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Chat settings" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Setup duplicates rules" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="External access" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="การนำเข้าข้อมูล" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="ภาษา" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="การตั้งค่าการอินทิเกรท LDAP" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="โมเดล ML" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="OAuth 2.0 integrated applications" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="ชุดโมเดลการให้คะแนน" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="การแปล" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="การตั้งค่าการอินทิเกรทการบริการบนเวป" />
+		</Items>
+	</Group>
+</Resources>

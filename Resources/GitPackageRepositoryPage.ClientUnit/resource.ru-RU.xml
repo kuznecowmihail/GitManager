@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Репозитории пакетов Git&quot;" />
+			<Item Name="LocalizableStrings.GitSysPackageTip.Value" Value="Не заполнять, если пакет еще не существует в системе" />
+			<Item Name="LocalizableStrings.IncorrectGitRemoteUrlError.Value" Value="Введите корректную Ссылку на удаленный репозиторий" />
+		</Items>
+	</Group>
+</Resources>

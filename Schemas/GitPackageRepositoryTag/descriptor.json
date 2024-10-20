@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "79f27f71-25e3-4460-ae82-2327e23a7fbc",
+    "Name": "GitPackageRepositoryTag",
+    "ModifiedOnUtc": "\/Date(1729370822000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Репозитории пакетов"
+  }
+}

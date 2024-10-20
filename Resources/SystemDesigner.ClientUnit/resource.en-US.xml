@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.3c6db66f-5904-470f-a332-92e6787f9036.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDAgNDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiM2Qjc5QkI7fQ0KCS5zdDF7ZmlsbDojRUU3RTYzO30NCgkuc3Qye2ZpbGw6bm9uZTt9DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTI1LjUsMTIuNGMwLTMuNS0yLjktNi40LTYuNC02LjRjLTMuNSwwLTYuNCwyLjktNi40LDYuNGMwLDMuNSwyLjksNi40LDYuNCw2LjRDMjIuNiwxOC44LDI1LjUsMTYsMjUuNSwxMi40eg0KCQkiLz4NCgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTguOSwyNi4zIi8+DQoJPHJlY3QgY2xhc3M9InN0MiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTM3LjksMjVoLTNjLTAuMi0xLjQtMC42LTIuNi0xLjItMy41QzM1LjUsMjIuMSwzNywyMy4zLDM3LjksMjV6IE0zNCwyOC4xYzAsMC43LDAsMS4zLTAuMSwxLjloLTQuNQ0KCQljLTAuMS0wLjYtMC4xLTEuMi0wLjEtMS45YzAtMC43LDAtMS4zLDAuMS0xLjloNC41QzMzLjksMjYuOCwzNCwyNy40LDM0LDI4LjF6IE0zMS42LDM1Yy0wLjcsMC0xLjYtMS40LTIuMS0zLjhoNC4xDQoJCUMzMy4yLDMzLjYsMzIuMywzNSwzMS42LDM1eiBNMjkuNiwyNWMwLjQtMi40LDEuNC0zLjgsMi4xLTMuOHMxLjYsMS40LDIuMSwzLjhIMjkuNnogTTI5LjUsMjEuNWMtMC41LDAuOS0wLjksMi4xLTEuMiwzLjVoLTMNCgkJQzI2LjIsMjMuMywyNy43LDIyLjEsMjkuNSwyMS41eiBNMjQuOSwyNi4yaDMuM2MtMC4xLDAuNi0wLjEsMS4zLTAuMSwxLjljMCwwLjYsMCwxLjMsMC4xLDEuOWgtMy4zYy0wLjItMC42LTAuMy0xLjItMC4zLTEuOQ0KCQlDMjQuNiwyNy40LDI0LjcsMjYuOCwyNC45LDI2LjJ6IE0yNS40LDMxLjFoM2MwLjIsMS40LDAuNiwyLjYsMS4yLDMuNUMyNy43LDM0LjEsMjYuMiwzMi44LDI1LjQsMzEuMXogTTMzLjcsMzQuNg0KCQljMC41LTAuOSwwLjktMi4xLDEuMi0zLjVoM0MzNywzMi44LDM1LjUsMzQuMSwzMy43LDM0LjZ6IE0zOC4zLDMwSDM1YzAuMS0wLjYsMC4xLTEuMywwLjEtMS45YzAtMC42LDAtMS4zLTAuMS0xLjloMy4zDQoJCWMwLjIsMC42LDAuMywxLjIsMC4zLDEuOUMzOC42LDI4LjcsMzguNSwyOS40LDM4LjMsMzB6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTIyLjQsMjguMmMwLTIuOCwxLjItNS4yLDMuMS02LjljLTEuOS0wLjYtNC40LTEtNi4yLTFjLTYuNSwwLTExLjgsNC44LTExLjgsMTAuN2MyLjQsMCw5LjUsMCwxNS4yLDANCgkJQzIyLjYsMzAuMSwyMi40LDI5LjIsMjIuNCwyOC4yeiIvPg0KCTxnPg0KCQk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTMuNSwxOS41Yy0xLjgtMC4zLTMuNy0wLjMtMy43LTAuM2MtNC43LDAuNC04LjQsMy41LTguNCw3LjljMSwwLDIuNywwLDQuOCwwQzcuNCwyMy44LDEwLjEsMjEsMTMuNSwxOS41eiINCgkJCS8+DQoJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMi4xLDcuN2MtMC40LTAuMS0wLjgtMC4yLTEuMi0wLjJDOC4yLDcuNSw2LDkuNyw2LDEyLjRzMi4yLDQuOSw0LjksNC45YzAuNCwwLDAuOC0wLjEsMS4yLTAuMg0KCQkJYy0wLjktMS4zLTEuNS0zLTEuNS00LjdDMTAuNywxMC43LDExLjIsOSwxMi4xLDcuN3oiLz4NCgk8L2c+DQo8L2c+DQo8L3N2Zz4NCg==" />
+			<Item Name="Images.8a23778b-802c-8686-93a8-3322d69bbcf3.Caption" Value="GitIcon" />
+			<Item Name="Images.8a23778b-802c-8686-93a8-3322d69bbcf3.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNTEyLjAwMDAwMHB0IiBoZWlnaHQ9IjUxMi4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDUxMi4wMDAwMDAgNTEyLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNTEyLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTI0ODEgNTEwNSBjLTMwIC05IC02OCAtMjQgLTg1IC0zNSAtMTcgLTEwIC01NTQgLTU0MiAtMTE5MiAtMTE4MgotMTExNCAtMTExNSAtMTE2MyAtMTE2NSAtMTE4MCAtMTIxOCAtMjMgLTcwIC0yMyAtMTYwIDAgLTIzMCAxNyAtNTIgNTUgLTkyCjgxMiAtODUwIGw3OTQgLTc5NSAyODggMjg4IDI4OSAyODkgLTE0IDQxIGMtMjMgNjYgLTEzIDE5OCAxOSAyNjkgMzIgNzAgMTAzCjE0NyAxNjMgMTc5IGw0NSAyNCAwIDcwMyAwIDcwMiAtMjMgOSBjLTQyIDE2IC0xMjMgODggLTE1NCAxMzcgLTQ5IDc4IC02NgoxNDQgLTYxIDIzOCA1IDEwMSAzNyAxNzUgMTA3IDI0OSAyMjUgMjM3IDYxNSAxMTQgNjcyIC0yMTIgMjUgLTE0MSAtNDUgLTI5OAotMTcxIC0zODYgbC00MCAtMjggMCAtNjkxIDAgLTY5MSAyNjAgMjYwIDI2MCAyNjAgLTE3IDY5IGMtMTQgNTkgLTE1IDc5IC01CjEzOCAyMyAxMzQgMTA0IDI0MyAyMjEgMzAxIDYxIDMwIDc0IDMyIDE2NiAzMiA5MiAwIDEwNiAtMyAxNjcgLTMyIDg1IC00MAoxNTEgLTEwNiAxOTEgLTE5MSAyOSAtNjEgMzIgLTc1IDMyIC0xNjcgMCAtODggLTMgLTEwNyAtMjcgLTE1OCAtNzcgLTE2NAotMjU1IC0yNTkgLTQyNSAtMjI4IGwtNjcgMTIgLTI3OSAtMjc5IC0yODAgLTI4MCAxMyAtNjYgYzMxIC0xNjUgLTYwIC0zNDAKLTIxNyAtNDE4IC01MyAtMjYgLTgwIC0zMiAtMTQ3IC0zNiAtNDQgLTIgLTk3IDAgLTExNyA2IGwtMzYgMTAgLTI5MiAtMjkyCi0yOTEgLTI5MSAyNjIgLTI2MSBjMjQyIC0yNDAgMjY3IC0yNjMgMzE4IC0yNzkgNzAgLTIzIDE2MCAtMjQgMjMwIC0xIDUzIDE4Cjk4IDYxIDEyMzEgMTE5NSAxMTM0IDExMzMgMTE3NyAxMTc4IDExOTUgMTIzMSAyMiA3MCAyMiAxNjAgMCAyMzAgLTE4IDUzIC02MQo5OCAtMTE5MCAxMjI2IC0xMDgxIDEwODIgLTExNzUgMTE3MyAtMTIyMSAxMTg4IC03NCAyNCAtMTQzIDI4IC0yMDQgMTF6Ii8+CjwvZz4KPC9zdmc+Cg==" />
+			<Item Name="LocalizableStrings.ChatSettingsCaption.Value" Value="Chat settings" />
+			<Item Name="LocalizableStrings.DuplicatesSettingsLinkCaption.Value" Value="Setup duplicates rules" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="External access" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GitCaption.Value" Value="Git" />
+			<Item Name="LocalizableStrings.GitPackageRepositoryCaption.Value" Value="Package repositories" />
+			<Item Name="LocalizableStrings.GitRepositoryAccessCaption.Value" Value="Repository access" />
+			<Item Name="LocalizableStrings.InstallBonusInSalesCaption.Value" Value="&quot;Compensation&quot; package installation" />
+			<Item Name="LocalizableStrings.InstallPackageSuccess.Value" Value="Package successfully installed" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Languages" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP integration setup" />
+			<Item Name="LocalizableStrings.MandrillSettingsLinkCaption.Value" Value="Mandrill integration setup" />
+			<Item Name="LocalizableStrings.MLModelSectionCaption.Value" Value="ML models" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="OAuth 2.0 integrated applications" />
+			<Item Name="LocalizableStrings.OpenBulkEmailEventLogCaption.Value" Value="Mailing log" />
+			<Item Name="LocalizableStrings.PortalFunctionalRolesLinkCaption.Value" Value="Portal functional roles" />
+			<Item Name="LocalizableStrings.PortalMainPageManagementLinkCaption.Value" Value="Set up portal main page" />
+			<Item Name="LocalizableStrings.PortalOrganizationalRolesLinkCaption.Value" Value="Portal organizational roles" />
+			<Item Name="LocalizableStrings.PortalOrganizationSetupLinkCaption.Value" Value="Set up portal organization page" />
+			<Item Name="LocalizableStrings.PortalSetupCaption.Value" Value="Portal setup" />
+			<Item Name="LocalizableStrings.PortalUsersLinkCaption.Value" Value="Portal users" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Scoring models" />
+			<Item Name="LocalizableStrings.SiteEventTypeCaption.Caption" Value="SiteEventTypeCaption" />
+			<Item Name="LocalizableStrings.SiteEventTypeCaption.Value" Value="Website events tracking" />
+			<Item Name="LocalizableStrings.SocialLeadGenLinkCaption.Value" Value="Social lead generation service settings" />
+			<Item Name="LocalizableStrings.SspProfileContactSetupLinkCaption.Value" Value="Set up portal user profile page" />
+			<Item Name="LocalizableStrings.TrackingSettingsLinkCaption.Value" Value="Event tracking service settings" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Translation" />
+			<Item Name="LocalizableStrings.UpdateBonusInSalesCaption.Value" Value="&quot;Compensation&quot; package update" />
+			<Item Name="LocalizableStrings.UseOldOpportunityManagementProcess.Value" Value="Do not use corporate sale process 7.8" />
+			<Item Name="LocalizableStrings.UseOpportunityManagementProcess780.Value" Value="Use corporate sale process 7.8" />
+			<Item Name="LocalizableStrings.WebFormsLinkCaption.Value" Value="Landing pages" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Web services integration setup" />
+		</Items>
+	</Group>
+</Resources>

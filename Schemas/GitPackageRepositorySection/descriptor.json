@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3198b11-cad1-4c56-b37f-9991c21ffcd2",
+    "Name": "GitPackageRepositorySection",
+    "ModifiedOnUtc": "\/Date(1729371258000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Репозитории пакетов Git\""
+  }
+}

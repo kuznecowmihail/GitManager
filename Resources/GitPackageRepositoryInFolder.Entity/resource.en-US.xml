@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Репозитории пакетов в группе" />
+			<Item Name="Columns.Folder.Caption" Value="Группа Репозитории пакетов" />
+			<Item Name="Columns.GitPackageRepository.Caption" Value="Репозитории пакетов" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

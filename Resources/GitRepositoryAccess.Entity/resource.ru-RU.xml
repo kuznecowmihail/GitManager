@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Доступ к репозиторию Git" />
+			<Item Name="Columns.GitEmail.Caption" Value="Почта" />
+			<Item Name="Columns.GitHostname.Caption" Value="Домен" />
+			<Item Name="Columns.GitName.Caption" Value="Название" />
+			<Item Name="Columns.GitNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.GitPassword.Caption" Value="Пароль" />
+			<Item Name="Columns.GitUsername.Caption" Value="Логин пользователя" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

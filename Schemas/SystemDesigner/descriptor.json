@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4a17c50-5f52-4c43-97a0-07f7e9de4c1b",
+    "Name": "SystemDesigner",
+    "ModifiedOnUtc": "\/Date(1729382811000)\/",
+    "Parent": {
+      "UId": "30eb596d-9981-4116-ac6c-daf1060716f4",
+      "Name": "SystemDesigner"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Дизайнер системы"
+  }
+}
